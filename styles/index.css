@@ -139,13 +139,13 @@ p span:hover {
 @media (max-width: 1029px) {
   .login,
   .signup {
-    width: 40%;
+    width: 60%;
   }
 }
 @media (max-width: 772px) {
   .login,
   .signup {
-    width: 45%;
+    width: 65%;
   }
   .welbox {
     width: 95%;
